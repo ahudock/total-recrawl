@@ -1,7 +1,7 @@
 """
 Total reCrawl Regex Crawler
 
-Crawls a website and extracts (US) phone numbers.
+Crawls a website and extracts (US) phone numbers, links, and email addresses.
 
 @author: Andy Hudock <ahudock@pm.me>
 
